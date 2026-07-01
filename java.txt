@@ -1,1 +1,2 @@
 Java is an wonderful language
+java is compiled as well as interpreted language 
